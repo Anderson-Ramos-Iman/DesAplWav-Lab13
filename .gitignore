@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+/data/auth-store.json
 
 # debug
 npm-debug.log*
